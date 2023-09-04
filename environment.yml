@@ -1,0 +1,9 @@
+name: ml-book
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - pandas=2.1.0
+  - matplotlib=3.7.2
+  - numpy=1.25.2
+  - scikit-learn=1.3.0
